@@ -19,7 +19,6 @@
  $ pkg update && pkg upgrade
  $ pkg install python
  $ pkg install git
- $ pip install rich
  $ pip install requests
  $ pip install bs4
  $ rm -rf SIMP

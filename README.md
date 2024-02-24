@@ -13,6 +13,31 @@
 ***Membutuhkan cookie facebook, dapatkan cookie Anda dengan cookiedough (chrome extensions)***
 - [install cookiedough](https://chrome.google.com/webstore/detail/cookiedough)
 
+#### how to install scripts:
+ download aplikasi termux di playstore atau [klik disini!](https://f-droid.org/repo/com.termux_118.apk), lalu buka aplikasinya ketikan perintah dibawah ini.
+ ```
+ $ pkg update && pkg upgrade
+ $ pkg install python
+ $ pkg install git
+ $ pip install rich
+ $ pip install requests
+ $ pip install bs4
+ $ rm -rf SIMP
+ $ git clone https://github.com/AdityaTwinz/SIMP
+ ```
+#### OK, now the script has been installed
+##### how to install material script:
+ sekarang karena script sudah diinstall tinggal kita jalankan, ketikan perintah dibawah ini:
+ ```
+  $ cd SIMP
+  $ git pull
+ ```
+
+##### how to run the tools
+```
+python run.py
+```
+
 
 <b>NOTE</b>: ketik ```CTRL + C``` untuk berhenti dump
 

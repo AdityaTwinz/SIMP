@@ -39,9 +39,9 @@ python run.py
 
 [![AdityaTwinz](https://github.com/AdityaTwinz/SIMP/blob/main/assets/IMG_20240224_163001.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
-[![AdityaTwinz](https://github.com/AdityaTwinz/SIMP/blob/main/assets/IMG_20240224_162942.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
-
 <b>NOTE</b>: ketik ```CTRL + C``` untuk berhenti dump
+
+[![AdityaTwinz](https://github.com/AdityaTwinz/SIMP/blob/main/assets/IMG_20240224_162942.jpg)](https://wa.me/+6283861183874?text=*Assalamualaikum%20Bang*)
 
 ### contributes
 - code by [@AdityaTwinz](https://github.com/AdityaTwinz)
